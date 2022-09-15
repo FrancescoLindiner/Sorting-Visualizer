@@ -12,9 +12,9 @@ A GUI application created with Java Swing to visualizing sorting algorithms.
 5. Merge Sort
 
 ## Skills Learned
-Customising Swing Components
-Graphics 2D
-Apply Sorting Algorithms
+- Customising Swing Components
+- Graphics 2D
+- Apply Sorting Algorithms
 
 ### Video
 
