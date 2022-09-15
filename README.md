@@ -1,4 +1,22 @@
+# Sorting Visualizer
 
+![Version](https://img.shields.io/badge/Version-0.1.0-brightgreen)
+![Language](https://img.shields.io/badge/Language-Java-blue)
+
+A GUI application created with Java Swing to visualizing sorting algorithms.
+
+1. Bubble Sort
+2. Selection Sort
+3. Insertion Sort
+4. Quick Sort
+5. Merge Sort
+
+## Skills Learned
+Customising Swing Components
+Graphics 2D
+Apply Sorting Algorithms
+
+### Video
 
 https://user-images.githubusercontent.com/71122014/190426082-7578c0c5-a9c2-4fbd-8e0a-ae954692d146.mp4
 
